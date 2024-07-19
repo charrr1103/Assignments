@@ -1,4 +1,4 @@
-# Assignments
+# Cinema Ticketing System
 
 C++ Cinema Ticketing System:
 
